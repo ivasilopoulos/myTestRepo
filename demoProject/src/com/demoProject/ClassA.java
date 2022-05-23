@@ -7,7 +7,7 @@ public class ClassA {
     public void showMsg()
     {
         JFrame f=new JFrame();
-        JOptionPane.showMessageDialog(f,"This is a message from ClassA");
+        JOptionPane.showMessageDialog(f,"This is a message from ClassB");
         f.dispose();
     }
 }
