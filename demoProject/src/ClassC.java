@@ -10,4 +10,5 @@ public class ClassC extends ClassA{
         JOptionPane.showMessageDialog(f,"This is a message from ClassC!!!!!!");
         f.dispose();
     }
+    /// new function ()
 }
